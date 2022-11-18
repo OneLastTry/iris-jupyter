@@ -24,4 +24,4 @@ Access: [http://localhost:9092/csp/sys/UtilHome.csp](http://localhost:9092/csp/s
 
 There are a couple of examples on how to use IRIS within the notebook inside the **work** directory and the directory **workspace** is mapped to your local environment, therefore your notebook files will be persisted.
 
-![login](misc/work.png)
+![login](https://github.com/OneLastTry/iris-jupyter/raw/main/misc/work.png)
